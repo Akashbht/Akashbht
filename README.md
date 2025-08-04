@@ -40,22 +40,21 @@ Here are some ideas to get you started:
 ```javascript
 const akash = {
     pronouns: "He/Him",
-    location: "San Francisco, CA 🌉",
+    location: "Dehradun, IN",
     currentRole: "Full Stack Developer",
-    interests: ["AI/ML", "Web3", "Cloud Computing", "Open Source"],
-    funFact: "I debug with console.log and I'm not ashamed! 😄",
+    interests: ["AI/ML", "Web3", "Cyber Security", "Open Source"],
+    funFact: "I debug with print and I'm not ashamed! 😄",
     lifePhilosophy: "Code is poetry written for machines but read by humans",
     
     getCurrentStatus: () => {
         return {
-            learning: "Advanced System Design",
-            building: "Revolutionary AI-powered SaaS platform",
-            reading: "Clean Architecture by Robert C. Martin",
-            listening: "Synthwave while coding 🎵"
+            learning: "LLM training and fine tuning",
+            building: "Model Interpretation Dashboard",
+            reading: "Clean Architecture by Robert C. Martin"
         };
     },
     
-    getMotivation: () => "Turning coffee into code since 2019 ☕ → 💻"
+    getMotivation: () => "Turning coffee into code since 2020 ☕ → 💻"
 };
 ```
 
@@ -137,27 +136,13 @@ const akash = {
 
 <div align="center">
 
-<a href="https://github.com/Akashbht/epic-web-app">
+<a href="https://github.com/Akashbht/Chord_DHT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akashbht&repo=epic-web-app&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
-<a href="https://github.com/Akashbht/ai-toolkit">
+<a href="https://github.com/Akashbht/Keylogger-with-Data-Exfiltration-Detection-Bypass">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akashbht&repo=ai-toolkit&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
-</div>
-
----
-
-## 📈 Contribution Timeline
-
-<img src="https://raw.githubusercontent.com/Akashbht/Akashbht/output/snake.svg" alt="Snake animation" />
-
----
-
-## 🎵 Spotify Now Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=58a6ff&bar_color_cover=true" alt="Spotify Now Playing" />
 </div>
 
 ---
@@ -168,20 +153,14 @@ const akash = {
 
 | 🏢 Company | 💼 Role | 📅 Duration | 🛠️ Technologies |
 |------------|---------|-------------|------------------|
-| **TechCorp Inc** | Senior Full Stack Developer | 2022 - Present | React, Node.js, AWS, PostgreSQL |
-| **Innovation Labs** | Full Stack Developer | 2020 - 2022 | Vue.js, Python, Docker, MongoDB |
-| **StartupXYZ** | Frontend Developer | 2019 - 2020 | JavaScript, React, Firebase |
+| **Cvent** | Application Security Intern | Jan 2025 - July 2025 | Python, Burpsuite, OpenAI Models |
+| **OutlierAI** | Contractor | 2023 - 2024 | Python, JavaScript, Cpp|
 
 </div>
 
 ---
-
+<!--
 ## 🌟 Open Source Contributions
-
-<div align="center">
-  <img src="https://contrib.rocks/image?repo=facebook/react" alt="Contributors" />
-</div>
-
 ### 🔥 Recent Contributions
 - 🚀 **React Core**: Implemented performance optimizations for virtual DOM
 - 🛡️ **TypeScript**: Contributed to strict mode improvements  
@@ -189,16 +168,18 @@ const akash = {
 - 📱 **Next.js**: Fixed critical rendering bug in SSR
 
 ---
-
+-->
+<!--
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+<!--
 - 🔥 [Building Scalable Microservices with Node.js and Docker](https://dev.to/akashbht/building-scalable-microservices)
 - 🚀 [Advanced React Patterns: Compound Components](https://dev.to/akashbht/advanced-react-patterns)
 - 🎯 [Optimizing Database Queries: A Deep Dive](https://dev.to/akashbht/optimizing-database-queries)
 - 🧠 [Machine Learning in JavaScript: TensorFlow.js Guide](https://dev.to/akashbht/ml-in-javascript)
 <!-- BLOG-POST-LIST:END -->
-
+ 
 ---
 
 ## 🎮 Fun Zone
@@ -211,6 +192,7 @@ const akash = {
 ### 😄 Random Dev Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
 
+<!--
 ### 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akashbht/Akashbht/output/github-contribution-grid-snake-dark.svg">
@@ -219,7 +201,7 @@ const akash = {
 </picture>
 
 </div>
-
+-->
 ---
 
 ## 🤝 Let's Connect!
@@ -232,30 +214,28 @@ const akash = {
   <a href="https://github.com/Akashbht">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/akash-bhatt">
+  <a href="https://linkedin.com/in/akash--bhatt">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/akashbht">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="mailto:aakshbht@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="mailto:akash@example.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://dev.to/akashbht">
-    <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="https://akashbht.com">
+  <!--
+  <a href="https://akashbht.me">
     <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
+  -->
 </p>
-
+  <!--
 ### 📧 Professional Inquiries
 ```
 📩 Business: akash.business@example.com
 🤝 Collaboration: akash.collab@example.com  
 💼 Freelance: akash.freelance@example.com
 ```
+  -->
 
+  <!--
 ### ☕ Support My Work
 <a href="https://www.buymeacoffee.com/akashbht">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
@@ -266,12 +246,11 @@ const akash = {
 ---
 
 <div align="center">
-
+-->
 ### 🎯 2024 Goals
 - 🚀 Contribute to 10 major open source projects
-- 📚 Master Advanced System Design patterns  
+- 📚 Master AI tools 
 - 🤖 Build an AI-powered developer tool
-- 🌍 Speak at 5+ tech conferences
 - 📝 Write 50+ technical blog posts
 
 ### 💡 Quote of the Day
@@ -281,7 +260,6 @@ const akash = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
-**⭐ From [Akash Bhatt](https://github.com/Akashbht) - Crafting digital experiences that matter**
 
 <img src="https://komarev.com/ghpvc/?username=Akashbht&label=Thanks%20for%20visiting!&color=58A6FF&style=flat-square" alt="Thanks for visiting" />
 
