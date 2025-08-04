@@ -137,10 +137,10 @@ const akash = {
 <div align="center">
 
 <a href="https://github.com/Akashbht/Chord_DHT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akashbht&repo=epic-web-app&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akashbht&repo=Chord_DHT&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 <a href="https://github.com/Akashbht/Keylogger-with-Data-Exfiltration-Detection-Bypass">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akashbht&repo=ai-toolkit&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akashbht&repo=Keylogger-with-Data-Exfiltration-Detection-Bypass&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
 </div>
