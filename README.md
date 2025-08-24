@@ -247,7 +247,7 @@ const akash = {
 
 <div align="center">
 -->
-### 🎯 2024 Goals
+### 🎯 2025 Goals
 - 🚀 Contribute to 10 major open source projects
 - 📚 Master AI tools 
 - 🤖 Build an AI-powered developer tool
