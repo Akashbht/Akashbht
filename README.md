@@ -96,6 +96,13 @@ const akash = {
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
+
+### 🛡️ Cybersecurity
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP Top 10](https://img.shields.io/badge/-OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Mend](https://img.shields.io/badge/-Mend-00BFAE?style=for-the-badge&logoColor=white)
+![Checkmarx](https://img.shields.io/badge/-Checkmarx-48C774?style=for-the-badge&logoColor=white)
+
 </div>
 
 ---
