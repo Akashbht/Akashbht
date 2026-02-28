@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
 # 🚀 Akash Bhatt | Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Tech+Innovator;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Tech+Innovator;Problem+Solver;CyberSecurity+Engineer" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Akashbht&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
